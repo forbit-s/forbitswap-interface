@@ -1,0 +1,2 @@
+(this["webpackJsonp@forbitswap/interface"]=this["webpackJsonp@forbitswap/interface"]||[]).push([[8],{1232:function(n,i){},950:function(n,i){},951:function(n,i){},977:function(n,i){},978:function(n,i){},984:function(n,i){}}]);
+//# sourceMappingURL=8.a4c502c9.chunk.js.map
